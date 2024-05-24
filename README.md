@@ -7,4 +7,4 @@ Even VRChat running on Linux (+ Proton) may be able to play the following URLs w
 - https://cleemy-desu-wayo.github.io/vr/bbbvp8.webm
 - https://cleemy-desu-wayo.github.io/vr/bbbvp9.webm
 
-Credit: <a href="https://peach.blender.org/about/">(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org</a>
+Credit: [(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org](https://peach.blender.org/about/)
