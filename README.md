@@ -1,4 +1,4 @@
-# Static Assets for VRChat
+# Static Files for VRChat Client
 
 this is GitHub Pages repository for https://cleemy-desu-wayo.github.io/vr/
 
